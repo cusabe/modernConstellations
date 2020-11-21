@@ -1,0 +1,36 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+
+# add as many "name+comment" entries as necessary
+# (or remove it altogether if you haven't collaborated with anyone)
+collaboration:
+  - name: Ben Davies
+    comment: user experience tester, suggested shrinking star field to make it easier to find constellations
+  - name: Kara DeFay
+    comment: user experience tester, suggested making the steering controls more obvious
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code: 
+  - comment: got started with Charles blobArray syntax for objects and arrays - background starfield adapted and heavily modified
+    url: https://editor.p5js.org/charlesmatarles/sketches/WY66_fyVX
+    licence: CC BY-NC-SA 4.0
+
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+  # NOTE: "Bliss" is just here as an example, you should remove it
+  - comment: "fender stratocaster shape"
+    url: https://imgbin.com/png/LY6dHZwc/fender-stratocaster-electric-guitar-frankenstrat-png
+    licence: shape is not under copyright or trademark https://www.musicradar.com/news/guitars/fender-loses-guitar-copyright-case-201886
+
+
+# sign *your* name and uid here
+name: Benedict Cusack
+uid: u4022214
